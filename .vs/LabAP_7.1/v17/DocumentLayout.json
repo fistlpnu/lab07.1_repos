@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fisto\\source\\repos\\LabAP_7.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71798718-FAB3-4B09-A8E4-1AF698C7915D}|LabAP_7.1\\LabAP_7.1.vcxproj|C:\\Users\\fisto\\source\\repos\\LabAP_7.1\\LabAP_7.1\\lab07.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71798718-FAB3-4B09-A8E4-1AF698C7915D}|LabAP_7.1\\LabAP_7.1.vcxproj|solutionrelative:LabAP_7.1\\lab07.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab07.cpp",
+              "DocumentMoniker": "C:\\Users\\fisto\\source\\repos\\LabAP_7.1\\LabAP_7.1\\lab07.cpp",
+              "RelativeDocumentMoniker": "LabAP_7.1\\lab07.cpp",
+              "ToolTip": "C:\\Users\\fisto\\source\\repos\\LabAP_7.1\\LabAP_7.1\\lab07.cpp",
+              "RelativeToolTip": "LabAP_7.1\\lab07.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-19T16:43:38.368Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
